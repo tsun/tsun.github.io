@@ -8,9 +8,9 @@ classes: wide
 <style>a{ TEXT-DECORATION:none; color: #990000;}a:hover{TEXT-DECORATION:underline ; color: #990000;}</style>
 
 
-I am a Ph.D. candidate from <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow" style="color:#990000;">Dept. of Computer Science at Stony Brook University</a>, advised by <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Haibin Ling</a>. I obtained my M.Sc. from Nanjing University, advised by <a href="https://cs.nju.edu.cn/zhouzh/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Zhi-Hua Zhou</a>. I received my B.E. from Huazhong University of Science and Technology.
+I am a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow" style="color:#990000;">Stony Brook University</a>, advised by <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Haibin Ling</a>. I obtained my M.Sc. in Computer Science from Nanjing University in 2018, advised by <a href="https://cs.nju.edu.cn/zhouzh/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Zhi-Hua Zhou</a>, and B.E. in Automation from Huazhong University of Science and Technology in 2015.
 
-I work on computer vision, machine learning and data mining. Recently, I am focusing on domain adaptation and learning from few samples. 
+I work on computer vision, machine learning. Currently, I am focusing on domain adaptation and learning from few samples. 
 
 
 ### News
