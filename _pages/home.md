@@ -22,7 +22,7 @@ I am a Ph.D. candidate from <a href="https://www.cs.stonybrook.edu/" target="_bl
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
-   <div class="img"><img class="img_responsive" src="/images/pub/eccv22.png"></a></div>         
+   <div class="img"><img class="img_responsive" src="/images/pub/eccv22.png"></div>         
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">Prior Knowledge Guided Unsupervised Domain Adaptation</a></div>         
      <div class="authors">Tao Sun, Cheng Lu, and Haibin Ling         
@@ -39,7 +39,7 @@ I am a Ph.D. candidate from <a href="https://www.cs.stonybrook.edu/" target="_bl
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
-   <div class="img"><img class="img_responsive" src="/images/pub/cvpr22.png"></a></div>         
+   <div class="img"><img class="img_responsive" src="/images/pub/cvpr22.png"></div>         
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">Safe Self-Refinement for Transformer-based Domain Adaptation</a></div>         
      <div class="authors">Tao Sun, Cheng Lu, Tianshuo Zhang, and Haibin Ling         
@@ -56,7 +56,7 @@ I am a Ph.D. candidate from <a href="https://www.cs.stonybrook.edu/" target="_bl
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
-   <div class="img"><img class="img_responsive" src="/images/pub/tpami21.png"></a></div>         
+   <div class="img"><img class="img_responsive" src="/images/pub/tpami21.png"></div>         
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">End-to-end Full Projector Compensation</a></div>         
      <div class="authors">Bingyao Huang, Tao Sun, and Haibin Ling         
