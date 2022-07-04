@@ -32,7 +32,7 @@ I work on computer vision, machine learning and data mining. Recently, I am focu
      <div>         
        <em>Proceedings of the European Conference on Computer Vision (ECCV), 2022. (To appear)</em> 
  <br> 
-       <a class="btn btn--success btn--small" href="">PDF</a>         
+       <a class="btn btn--success btn--small" href="">PAPER</a>         
        <a class="btn btn--warning btn--small" href="">CODE</a>  
      </div>         
    </div>         
@@ -49,7 +49,7 @@ I work on computer vision, machine learning and data mining. Recently, I am focu
      <div>         
        <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</em> 
  <br> 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2204.07683">PDF</a>         
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2204.07683">PAPER</a>         
        <a class="btn btn--warning btn--small" href="https://github.com/tsun/SSRT">CODE</a>  
      </div>         
    </div>         
@@ -66,7 +66,7 @@ I work on computer vision, machine learning and data mining. Recently, I am focu
      <div>         
        <em>IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(6):2953-2967, 2022.</em> 
  <br> 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2008.00965">PDF</a>         
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2008.00965">PAPER</a>         
        <a class="btn btn--warning btn--small" href="https://github.com/BingyaoHuang/CompenNeSt-plusplus">CODE</a>  
      </div>         
    </div>         
