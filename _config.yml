@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Tao Sun"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : # &name "Tao Sun"
+subtitle                 : "" # site tagline that appears below site title in masthead
+name                     : "" # &name "Tao Sun"
 description              : "Tao Sun's homepage."
 url                      : "https://tsun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
