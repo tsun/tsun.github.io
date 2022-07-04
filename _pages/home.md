@@ -12,31 +12,66 @@ I am a Ph.D. candidate from <a href="https://www.cs.stonybrook.edu/" target="_bl
 
 
 ### News
-- [July 2022] One paper accepted by ECCV.
-- [June 2022] Attend CVPR at New Orleans.
-- [Mar 2022] One paper accepted by CVPR.
-- [Jan 2021] Passed Research Proficiency Examination to advance to Ph.D. candidate.
-- [Jan 2021] One paper accepted by TPAMI.
+- [July 2022] One paper accepted by ECCV 2022! See you in Tel-Aviv, Israel!
+- [June 2022] Attend CVPR 2022 at New Orleans.
+- [Mar 2022] One paper accepted by CVPR 2022! See you in New Orleans, LA!
+- [Jan 2021] One paper accepted by TPAMI!
 
 
 ### Selected Publications
+
+<div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">       
+   <div class="img"><img class="img_responsive" src="/images/pub/eccv22.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a style="color:#990000; font-weight:bold;">Prior Knowledge Guided Unsupervised Domain Adaptation</a></div>         
+     <div class="authors">Tao Sun, Cheng Lu, and Haibin Ling         
+     </div>         
+     <div>         
+       <em>Proceedings of the European Conference on Computer Vision (ECCV), 2022. (To appear)</em> 
+ <br> 
+       <a class="btn btn--success btn--small" href="">PDF</a>         
+       <a class="btn btn--success btn--small" href="">CODE</a>  
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+<div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">       
+   <div class="img"><img class="img_responsive" src="/images/pub/cvpr22.png"></a></div>         
+   <div class="text">         
+     <div class="title"><a style="color:#990000; font-weight:bold;">Safe Self-Refinement for Transformer-based Domain Adaptation</a></div>         
+     <div class="authors">Tao Sun, Cheng Lu, Tianshuo Zhang, and Haibin Ling         
+     </div>         
+     <div>         
+       <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</em> 
+ <br> 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2204.07683">PDF</a>         
+       <a class="btn btn--success btn--small" href="https://https://github.com/tsun/SSRT">CODE</a>  
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
  <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
+   <link rel="stylesheet" href="/assets/css/my.css">       
    <div class="img"><img class="img_responsive" src="/images/pub/tpami21.png"></a></div>         
    <div class="text">         
-     <div class="title"><a style="color:#990000; ">End-to-end Full Projector Compensation</a></div>         
+     <div class="title"><a style="color:#990000; font-weight:bold;">End-to-end Full Projector Compensation</a></div>         
      <div class="authors">Bingyao Huang, Tao Sun, and Haibin Ling         
      </div>         
      <div>         
-       <em>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. (in press)</em> 
+       <em>IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(6):2953-2967, 2022.</em> 
  <br> 
- 
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2008.00965">PDF</a>         
        <a class="btn btn--success btn--small" href="https://github.com/BingyaoHuang/CompenNeSt-plusplus">CODE</a>  
      </div>         
    </div>         
  </div> 
  <br>
+
+
 
 ### Contact
 Email: tao [at] cs.stonybrook.edu
