@@ -25,7 +25,7 @@ I am a Ph.D. candidate from <a href="https://www.cs.stonybrook.edu/" target="_bl
    <div class="img"><img class="img_responsive" src="/images/pub/eccv22.png"></div>         
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">Prior Knowledge Guided Unsupervised Domain Adaptation</a></div>         
-     <div class="authors">Tao Sun, Cheng Lu, and Haibin Ling         
+     <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling         
      </div>         
      <div>         
        <em>Proceedings of the European Conference on Computer Vision (ECCV), 2022. (To appear)</em> 
@@ -42,13 +42,13 @@ I am a Ph.D. candidate from <a href="https://www.cs.stonybrook.edu/" target="_bl
    <div class="img"><img class="img_responsive" src="/images/pub/cvpr22.png"></div>         
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">Safe Self-Refinement for Transformer-based Domain Adaptation</a></div>         
-     <div class="authors">Tao Sun, Cheng Lu, Tianshuo Zhang, and Haibin Ling         
+     <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, Tianshuo Zhang, and Haibin Ling         
      </div>         
      <div>         
        <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</em> 
  <br> 
        <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2204.07683">PDF</a>         
-       <a class="btn btn--success btn--small" href="https://https://github.com/tsun/SSRT">CODE</a>  
+       <a class="btn btn--success btn--small" href="https://github.com/tsun/SSRT">CODE</a>  
      </div>         
    </div>         
  </div> 
@@ -59,7 +59,7 @@ I am a Ph.D. candidate from <a href="https://www.cs.stonybrook.edu/" target="_bl
    <div class="img"><img class="img_responsive" src="/images/pub/tpami21.png"></div>         
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">End-to-end Full Projector Compensation</a></div>         
-     <div class="authors">Bingyao Huang, Tao Sun, and Haibin Ling         
+     <div class="authors">Bingyao Huang, <a style="text-decoration:underline;">Tao Sun</a>, and Haibin Ling         
      </div>         
      <div>         
        <em>IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(6):2953-2967, 2022.</em> 
