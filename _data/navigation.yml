@@ -1,2 +1,9 @@
 # main links
+#main:
+#  - title: "News"
+#    url: /#news
+#  - title: "Publications"
+#    url: /#selected-publications
+#  - title: "Contact"
+#    url: /#contact
 
