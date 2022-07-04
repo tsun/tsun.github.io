@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-<style>a{ TEXT-DECORATION:none; color: #990000;}a:hover{TEXT-DECORATION:underline ; font-weight: bold; color: #990000;}</style>
+<style>a{ TEXT-DECORATION:none; color: #990000;}a:hover{TEXT-DECORATION:underline ; color: #990000;}</style>
 
 
 I am a Ph.D. candidate <del>student</del> from <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow" style="color:#990000;">Dept. of Computer Science at Stony Brook University</a>, advised by <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Haibin Ling</a>. I work on computer vision, machine learning and data mining. Recently, I am focusing on domain adaptation and its application in vision tasks. I obtained my M.Sc. from Nanjing University, advised by <a href="https://cs.nju.edu.cn/zhouzh/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Zhi-Hua Zhou</a>. I received my B.E. from Huazhong University of Science and Technology.
@@ -36,5 +36,5 @@ I am a Ph.D. candidate <del>student</del> from <a href="https://www.cs.stonybroo
  <br>
 
 ### Contact
-Email: tao 'at' cs 'dot' stonybrook 'dot' edu
+Email: tao [at] cs.stonybrook.edu
 
