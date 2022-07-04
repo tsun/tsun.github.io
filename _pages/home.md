@@ -32,8 +32,8 @@ I work on computer vision, machine learning and data mining. Recently, I am focu
      <div>         
        <em>Proceedings of the European Conference on Computer Vision (ECCV), 2022. (To appear)</em> 
  <br> 
-       <a class="btn btn--success btn--small" href="">PAPER</a>         
-       <a class="btn btn--warning btn--small" href="">CODE</a>  
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/xxxx">PAPER</a>         
+       <a class="btn btn--warning btn--small" href="https://github.com/tsun/KUDA">CODE</a>  
      </div>         
    </div>         
  </div> 
