@@ -110,8 +110,8 @@ author:
   name             : "Tao Sun"
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate"
-  location         : "Stony Brook, NY"
-  email            : "tao@cs.stonybrook.edu"
+  # location         :  "Stony Brook, NY"
+  # email            : "tao@cs.stonybrook.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
