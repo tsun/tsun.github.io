@@ -32,7 +32,7 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      <div>         
        <em>Proceedings of the European Conference on Computer Vision (ECCV), 2022. (To appear)</em> 
  <br> 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/xxxx">PAPER</a>         
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2207.08877">PAPER</a>         
        <a class="btn btn--warning btn--small" href="https://github.com/tsun/KUDA">CODE</a>  
      </div>         
    </div>         
