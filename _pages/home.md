@@ -14,7 +14,7 @@ I am a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook
 
 
 ## Preprints
-<div class="publication">          
+- <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
    <div class="img"><img class="img_responsive" src="/images/pub/arxiv22b.png"></div>         
    <div class="text">         
@@ -27,8 +27,9 @@ I am a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook
    </div>         
  </div> 
 
+---
 
-<div class="publication">          
+- <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
    <div class="img"><img class="img_responsive" src="/images/pub/arxiv22a.png"></div>         
    <div class="text">         
@@ -45,7 +46,7 @@ I am a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook
 
 ## Selected Publications
 
-<div class="publication">          
+- <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
    <div class="img"><img class="img_responsive" src="/images/pub/eccv22.png"></div>         
    <div class="text">         
@@ -61,8 +62,9 @@ I am a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook
    </div>         
  </div> 
 
+---
 
-<div class="publication">          
+- <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
    <div class="img"><img class="img_responsive" src="/images/pub/cvpr22.png"></div>         
    <div class="text">         
@@ -78,7 +80,9 @@ I am a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook
    </div>         
  </div> 
 
- <div class="publication">          
+---
+
+- <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
    <div class="img"><img class="img_responsive" src="/images/pub/tpami21.png"></div>         
    <div class="text">         
