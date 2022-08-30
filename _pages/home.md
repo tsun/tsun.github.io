@@ -25,12 +25,14 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
    <div class="img"><img class="img_responsive" src="/images/pub/arxiv22b.png"></div>         
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">Local Context-Aware Active Domain Adaptation</a></div>         
-     <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling         
-     <a href="https://arxiv.org/abs/2208.12856" target="_blank" rel="nofollow" style="color:#990000;">arXiv</a>|<a href="https://github.com/tsun/LADA" target="_blank" rel="nofollow" style="color:#990000;">Code</a>
+     <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling      
+     <br>   
+     [<a href="https://arxiv.org/abs/2208.12856" target="_blank" rel="nofollow" style="color:#990000;">arXiv</a>][<a href="https://github.com/tsun/LADA" target="_blank" rel="nofollow" style="color:#990000;">Code</a>]
+     <br>
      </div>         
    </div>         
  </div> 
-
+ <br>
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
