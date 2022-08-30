@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Tao Sun"
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate at Stony Brook University"
   # location         :  "Stony Brook, NY"
   email            : "tao@cs.stonybrook.edu"
   links:
@@ -122,14 +122,14 @@ author:
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/TaoSun12_"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tsun"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
