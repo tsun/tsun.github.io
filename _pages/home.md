@@ -32,7 +32,7 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
    </div>         
  </div> 
- <br>
+
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
@@ -40,16 +40,14 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">Domain Adaptation with Adversarial Training on Penultimate Activations
 </a></div>         
-     <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling         
-     </div>         
-     <div>  
- <br> 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2208.12853">PAPER</a>         
-       <a class="btn btn--warning btn--small" href="https://github.com/tsun/APA">CODE</a>  
+     <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling  
+     <br>   
+     [<a href="https://arxiv.org/abs/2208.12853" target="_blank" rel="nofollow" style="color:#990000;">arXiv</a>][<a href="https://github.com/tsun/APA" target="_blank" rel="nofollow" style="color:#990000;">Code</a>]
+     <br>
      </div>         
    </div>         
  </div> 
- <br>
+
 
 ### Selected Publications
 
@@ -63,8 +61,9 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      <div>         
        <em>Proceedings of the European Conference on Computer Vision (ECCV), 2022. (To appear)</em> 
  <br> 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2207.08877">PAPER</a>         
-       <a class="btn btn--warning btn--small" href="https://github.com/tsun/KUDA">CODE</a>  
+     <br>   
+     [<a href="https://arxiv.org/abs/2207.08877" target="_blank" rel="nofollow" style="color:#990000;">arXiv</a>][<a href="https://github.com/tsun/KUDA" target="_blank" rel="nofollow" style="color:#990000;">Code</a>]
+     <br>
      </div>         
    </div>         
  </div> 
