@@ -32,7 +32,7 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
    </div>         
  </div> 
-
+<br>
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
@@ -47,7 +47,7 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
    </div>         
  </div> 
-
+<br>
 
 ### Selected Publications
 
@@ -60,7 +60,6 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
      <div>         
        <em>Proceedings of the European Conference on Computer Vision (ECCV), 2022. (To appear)</em> 
- <br> 
      <br>   
      [<a href="https://arxiv.org/abs/2207.08877" target="_blank" rel="nofollow" style="color:#990000;">arXiv</a>][<a href="https://github.com/tsun/KUDA" target="_blank" rel="nofollow" style="color:#990000;">Code</a>]
      <br>
@@ -78,9 +77,9 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
      <div>         
        <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</em> 
- <br> 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2204.07683">PAPER</a>         
-       <a class="btn btn--warning btn--small" href="https://github.com/tsun/SSRT">CODE</a>  
+     <br>   
+     [<a href="https://arxiv.org/abs/2204.07683" target="_blank" rel="nofollow" style="color:#990000;">arXiv</a>][<a href="https://github.com/tsun/SSRT" target="_blank" rel="nofollow" style="color:#990000;">Code</a>]
+     <br> 
      </div>         
    </div>         
  </div> 
@@ -95,9 +94,9 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
      <div>         
        <em>IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(6):2953-2967, 2022.</em> 
- <br> 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2008.00965">PAPER</a>         
-       <a class="btn btn--warning btn--small" href="https://github.com/BingyaoHuang/CompenNeSt-plusplus">CODE</a>  
+     <br>   
+     [<a href="https://arxiv.org/abs/2008.00965" target="_blank" rel="nofollow" style="color:#990000;">arXiv</a>][<a href="https://github.com/BingyaoHuang/CompenNeSt-plusplus" target="_blank" rel="nofollow" style="color:#990000;">Code</a>]
+     <br> 
      </div>         
    </div>         
  </div> 
