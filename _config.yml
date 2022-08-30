@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Tao Sun"
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate at \\ Stony Brook University"
+  bio              : "Ph.D. Candidate at Stony Brook University"
   # location         :  "Stony Brook, NY"
   email            : "tao@cs.stonybrook.edu"
   links:
