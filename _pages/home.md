@@ -8,16 +8,8 @@ classes: wide
 <style>a{ TEXT-DECORATION:none; color: #990000;}a:hover{TEXT-DECORATION:underline ; color: #990000;}</style>
 
 
-I am a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow" style="color:#990000;">Stony Brook University</a>, advised by <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Haibin Ling</a>. I obtained my M.S. in Computer Science from Nanjing University in 2018, advised by <a href="https://cs.nju.edu.cn/zhouzh/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Zhi-Hua Zhou</a>, and obtained my B.E. in Automation from Huazhong University of Science and Technology in 2015.
+I am a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow" style="color:#990000;">Stony Brook University</a>, advised by <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Haibin Ling</a>. I am broadly interested in machine learning and computer vision, particularly domain adaptation, transfer learning and learning with weak supervision. 
 
-I work on computer vision, machine learning. Currently, I am focusing on domain adaptation and learning from few samples. 
-
-
-### News
-- [July 2022] One paper accepted by ECCV 2022! See you in Tel-Aviv, Israel!
-- [June 2022] Attend CVPR 2022 at New Orleans.
-- [Mar 2022] One paper accepted by CVPR 2022! See you in New Orleans, LA!
-- [Jan 2021] One paper accepted by TPAMI!
 
 ### Preprints
 <div class="publication">          
@@ -32,7 +24,7 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
    </div>         
  </div> 
-<br>
+
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
@@ -47,7 +39,7 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
    </div>         
  </div> 
-<br>
+
 
 ### Selected Publications
 
@@ -66,7 +58,7 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
    </div>         
  </div> 
- <br>
+
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
@@ -83,7 +75,6 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
    </div>         
  </div> 
- <br>
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
@@ -100,10 +91,6 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
      </div>         
    </div>         
  </div> 
- <br>
 
 
-
-### Contact
-Email: tao [at] cs.stonybrook.edu
 
