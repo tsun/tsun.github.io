@@ -19,6 +19,35 @@ I work on computer vision, machine learning. Currently, I am focusing on domain 
 - [Mar 2022] One paper accepted by CVPR 2022! See you in New Orleans, LA!
 - [Jan 2021] One paper accepted by TPAMI!
 
+### Preprints
+<div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">       
+   <div class="img"><img class="img_responsive" src="/images/pub/arxiv22b.png"></div>         
+   <div class="text">         
+     <div class="title"><a style="color:#990000; font-weight:bold;">Local Context-Aware Active Domain Adaptation</a></div>         
+     <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling         
+     <a href="https://arxiv.org/abs/2208.12856" target="_blank" rel="nofollow" style="color:#990000;">arXiv</a>|<a href="https://github.com/tsun/LADA" target="_blank" rel="nofollow" style="color:#990000;">Code</a>
+     </div>         
+   </div>         
+ </div> 
+
+
+<div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">       
+   <div class="img"><img class="img_responsive" src="/images/pub/arxiv22a.png"></div>         
+   <div class="text">         
+     <div class="title"><a style="color:#990000; font-weight:bold;">Domain Adaptation with Adversarial Training on Penultimate Activations
+</a></div>         
+     <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling         
+     </div>         
+     <div>  
+ <br> 
+       <a class="btn btn--success btn--small" href="https://arxiv.org/abs/2208.12853">PAPER</a>         
+       <a class="btn btn--warning btn--small" href="https://github.com/tsun/APA">CODE</a>  
+     </div>         
+   </div>         
+ </div> 
+ <br>
 
 ### Selected Publications
 
