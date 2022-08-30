@@ -8,10 +8,12 @@ classes: wide
 <style>a{ TEXT-DECORATION:none; color: #990000;}a:hover{TEXT-DECORATION:underline ; color: #990000;}</style>
 
 
+## About Me
+
 I am a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow" style="color:#990000;">Stony Brook University</a>, advised by <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Haibin Ling</a>. I am broadly interested in machine learning and computer vision, particularly domain adaptation, transfer learning and learning with weak supervision. 
 
 
-### Preprints
+## Preprints
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
    <div class="img"><img class="img_responsive" src="/images/pub/arxiv22b.png"></div>         
@@ -41,7 +43,7 @@ I am a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook
  </div> 
 
 
-### Selected Publications
+## Selected Publications
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">       
