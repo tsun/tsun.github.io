@@ -6,7 +6,7 @@ div.text {display:inline-block;zoom:1;display*:inline;text-align:left;margin-lef
 div.publication{padding-top:0px;padding-bottom:0px}
 div.publication div.img{max-width:300px;padding-right:10px}
 div.publication div.text{text-align:left}
-div.publication div.text div.title{}
+div.publication div.text div.title{font-weight:450}
 
 @media only screen and (max-width: 128em) {
     div.publication div.img{display:none}
