@@ -44,7 +44,7 @@ I am broadly interested in machine learning and computer vision, particularly do
    <div class="text">         
      <div class="title">Prior Knowledge Guided Unsupervised Domain Adaptation</div>         
      <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling </div>         
-     <div> <em>Proceedings of the European Conference on Computer Vision (ECCV), 2022. (To appear)</em> </div> 
+     <div> <em>European Conference on Computer Vision (ECCV), 2022. </em> </div> 
      [<a href="https://arxiv.org/abs/2207.08877" target="_blank" rel="nofollow" style="color:#990000;">arXiv</a>][<a href="https://github.com/tsun/KUDA" target="_blank" rel="nofollow" style="color:#990000;">Code</a>]       
    </div>         
  </div> 
@@ -56,7 +56,7 @@ I am broadly interested in machine learning and computer vision, particularly do
    <div class="text">         
      <div class="title">Safe Self-Refinement for Transformer-based Domain Adaptation</div>         
      <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, Tianshuo Zhang, and Haibin Ling </div>         
-     <div> <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</em> </div>
+     <div> <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</em> </div>
      [<a href="https://arxiv.org/abs/2204.07683" target="_blank" rel="nofollow" style="color:#990000;">arXiv</a>][<a href="https://github.com/tsun/SSRT" target="_blank" rel="nofollow" style="color:#990000;">Code</a>]
    </div>         
 </div> 
