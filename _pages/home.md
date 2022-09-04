@@ -6,7 +6,7 @@ classes: wide
 ---
 
 
-<style>a{TEXT-DECORATION:none; color: #990000;}a:hover{TEXT-DECORATION:underline; color: #990000;}</style>
+<style>a{TEXT-DECORATION:none;}a:hover{TEXT-DECORATION:underline;}</style>
 
 ## About Me
 
