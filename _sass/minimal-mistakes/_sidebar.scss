@@ -160,6 +160,7 @@
 .author__name {
   margin: 0;
   padding-left: 30px;
+  margin-left : 30px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -170,11 +171,13 @@
   font-family: $sans-serif;
   font-size: $type-size;
   padding-left: 30px;
+  margin-left : 30px;
 }
 
 .author__bio {
   margin: 0;
   padding-left: 30px;
+  margin-left : 30px;
 
   @include breakpoint($large) {
     margin-top: 10px;
