@@ -17,8 +17,7 @@ I am broadly interested in machine learning and computer vision, particularly do
 
 ## Preprints
 <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">       
-   <div class="img"><img class="img_responsive" src="/images/pub/arxiv22b.png"></div>         
+   <link rel="stylesheet" href="/assets/css/my.css"> 
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">Local Context-Aware Active Domain Adaptation </a></div>         
      <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling </div> 
@@ -29,8 +28,7 @@ I am broadly interested in machine learning and computer vision, particularly do
 ---
 
 <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">       
-   <div class="img"><img class="img_responsive" src="/images/pub/arxiv22a.png"></div>         
+   <link rel="stylesheet" href="/assets/css/my.css">         
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">Domain Adaptation with Adversarial Training on Penultimate Activations </a></div>       
      <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling </div> 
@@ -42,8 +40,7 @@ I am broadly interested in machine learning and computer vision, particularly do
 ## Selected Publications
 
 <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">       
-   <div class="img"><img class="img_responsive" src="/images/pub/eccv22.png"></div>         
+   <link rel="stylesheet" href="/assets/css/my.css">        
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">Prior Knowledge Guided Unsupervised Domain Adaptation </a></div>         
      <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, and Haibin Ling </div>         
@@ -55,8 +52,7 @@ I am broadly interested in machine learning and computer vision, particularly do
 ---
 
 <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">       
-   <div class="img"><img class="img_responsive" src="/images/pub/cvpr22.png"></div>         
+   <link rel="stylesheet" href="/assets/css/my.css">        
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">Safe Self-Refinement for Transformer-based Domain Adaptation</a></div>         
      <div class="authors"><a style="text-decoration:underline;">Tao Sun</a>, Cheng Lu, Tianshuo Zhang, and Haibin Ling </div>         
@@ -68,8 +64,7 @@ I am broadly interested in machine learning and computer vision, particularly do
 ---
 
 <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">       
-   <div class="img"><img class="img_responsive" src="/images/pub/tpami21.png"></div>         
+   <link rel="stylesheet" href="/assets/css/my.css">        
    <div class="text">         
      <div class="title"><a style="color:#990000; font-weight:bold;">End-to-end Full Projector Compensation</a></div>         
      <div class="authors">Bingyao Huang, <a style="text-decoration:underline;">Tao Sun</a>, and Haibin Ling </div>         
