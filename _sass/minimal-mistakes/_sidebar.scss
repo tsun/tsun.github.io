@@ -159,6 +159,7 @@
 
 .author__name {
   margin: 0;
+  padding-left: 30px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -172,6 +173,7 @@
 
 .author__bio {
   margin: 0;
+  padding-left: 30px;
 
   @include breakpoint($large) {
     margin-top: 10px;
