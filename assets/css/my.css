@@ -18,5 +18,5 @@ div.publication div.text div.title{font-weight:500}
     div.publication div.text{max-width:72%;text-align:left}
 }
 
-<style>a-1{TEXT-DECORATION:none; color: #990000;}a-1:hover{TEXT-DECORATION:underline; color: #990000;}</style>
-<style>a-2{font-weight:500;}</style>
+<style>a-url{TEXT-DECORATION:none; color: #990000;}a-url:hover{TEXT-DECORATION:underline; color: #990000;}</style>
+<style>a-ts{font-weight:500;}</style>
