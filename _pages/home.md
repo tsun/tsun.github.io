@@ -5,8 +5,6 @@ author_profile: true
 classes: wide
 ---
 
-<style>a{ TEXT-DECORATION:none;}a:hover{TEXT-DECORATION:underline ;}</style>
-
 
 ## About Me
 
