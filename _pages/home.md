@@ -10,7 +10,7 @@ classes: wide
 
 ## About Me
 
-I am a Ph.D. Candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Prof. Haibin Ling</a>. I obtained my M.S. degree in Computer Science from Nanjing University, advised by <a href="https://cs.nju.edu.cn/zhouzh/" target="_blank" rel="nofollow">Prof. Zhi-Hua Zhou</a>, and B.E. degree in Automation from Huazhong University of Science and Technology.
+I am a Ph.D. Candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Prof. Haibin Ling</a>. I obtained my M.S. degree in Computer Science from Nanjing University, advised by <a href="https://cs.nju.edu.cn/zhouzh/" target="_blank" rel="nofollow">Prof. Zhi-Hua Zhou</a>, and B.E. degree in Electrical Engineering from Huazhong University of Science and Technology.
 
 I am broadly interested in machine learning and computer vision, particularly domain adaptation, transfer learning and learning with weak supervision. 
 
