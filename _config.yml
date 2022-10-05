@@ -118,7 +118,7 @@ author:
     #  url: mailto:tao@cs.stonybrook.edu
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=izyo6gkAAAAJ&hl=zh-CN"
+      url: "https://scholar.google.com/citations?user=izyo6gkAAAAJ"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/TaoSun12_"
