@@ -39,7 +39,7 @@ Email: tao AT cs.stonybrook.edu
  </div> 
 
 
-## Selected Publications
+## Selected Publications ([Full Publications](https://scholar.google.com/citations?user=izyo6gkAAAAJ))
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">        
@@ -75,5 +75,7 @@ Email: tao AT cs.stonybrook.edu
      </div>               
 </div> 
 
+       
+ 
 
 
