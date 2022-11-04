@@ -14,7 +14,7 @@ I am a Ph.D. Candidate in Computer Science at <a href="https://www.cs.stonybrook
 
 I am broadly interested in machine learning and computer vision, particularly domain adaptation, transfer learning and learning with weak supervision. 
 
-Email: tao AT cs.stonybrook.edu
+Email: tao [at] cs.stonybrook.edu
 
 
 ## Preprints
