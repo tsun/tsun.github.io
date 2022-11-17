@@ -1,7 +1,7 @@
 ---
 permalink: /
+author_profile: True
 layout: archive
-author_profile: true
 classes: wide
 ---
 
@@ -10,71 +10,21 @@ classes: wide
 
 ## About Me
 
-I am a Ph.D. Candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Prof. Haibin Ling</a>. I obtained my M.S. degree in Computer Science from Nanjing University, advised by <a href="https://cs.nju.edu.cn/zhouzh/" target="_blank" rel="nofollow">Prof. Zhi-Hua Zhou</a>, and B.E. degree in Electrical Engineering from Huazhong University of Science and Technology.
+Hi! I am Tao Sun, a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Prof. Haibin Ling</a>.
 
-I am broadly interested in machine learning and computer vision, particularly domain adaptation, transfer learning and learning with weak supervision. 
+tao [at] cs.stonybrook.edu
 
-Email: tao [at] cs.stonybrook.edu
+## Research Interests
 
-
-## Preprints
-<div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css"> 
-   <div class="text">         
-     <div class="title">Local Context-Aware Active Domain Adaptation</div>         
-     <div class="authors"><b>Tao Sun</b>, Cheng Lu, and Haibin Ling </div> 
-     [<a href="https://arxiv.org/abs/2208.12856" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/tsun/LADA" target="_blank" rel="nofollow">Code</a>]  
-   </div>         
- </div> 
-
----
-
-<div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="text">         
-     <div class="title">Domain Adaptation with Adversarial Training on Penultimate Activations</div>       
-     <div class="authors"><b>Tao Sun</b>, Cheng Lu, and Haibin Ling </div> 
-     [<a href="https://arxiv.org/abs/2208.12853" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/tsun/APA" target="_blank" rel="nofollow">Code</a>]    
-   </div>         
- </div> 
+I am broadly interested in machine learning and computer vision, particularly domain adaptation, transfer learning, weakly-supervised learning. I also work on adversarial attack and defense of neural networks. My past research includes ensemble learning, recommender system, and medical image processing.
 
 
-## Selected Publications ([Full Publications](https://scholar.google.com/citations?user=izyo6gkAAAAJ))
-
-<div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">        
-   <div class="text">         
-     <div class="title">Prior Knowledge Guided Unsupervised Domain Adaptation</div>         
-     <div class="authors"><b>Tao Sun</b>, Cheng Lu, and Haibin Ling </div>         
-     <div> <em>European Conference on Computer Vision (ECCV), 2022.</em> </div> 
-     [<a href="https://arxiv.org/abs/2207.08877" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/tsun/KUDA" target="_blank" rel="nofollow">Code</a>]       
-   </div>         
- </div> 
-
----
-
-<div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">        
-   <div class="text">         
-     <div class="title">Safe Self-Refinement for Transformer-based Domain Adaptation</div>         
-     <div class="authors"><b>Tao Sun</b>, Cheng Lu, Tianshuo Zhang, and Haibin Ling </div>         
-     <div> <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</em> </div>
-     [<a href="https://arxiv.org/abs/2204.07683" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/tsun/SSRT" target="_blank" rel="nofollow">Code</a>]
-   </div>         
-</div> 
-
----
-
-<div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">        
-   <div class="text">         
-     <div class="title">End-to-end Full Projector Compensation</div>         
-     <div class="authors">Bingyao Huang, <b>Tao Sun</b>, and Haibin Ling </div>         
-     <div>   <em>IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(6):2953-2967, 2022.</em> </div>
-     [<a href="https://arxiv.org/abs/2008.00965" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/BingyaoHuang/CompenNeSt-plusplus" target="_blank" rel="nofollow">Code</a>]
-     </div>               
-</div> 
-
+## News
+- [Oct 2022] Attended ECCV 2022 remotely.
+- [July 2022] One paper is accepted by ECCV 2022! 
+- [June 2022] Attended CVPR 2022 at New Orleans, LA.
+- [Mar 2022] One paper is accepted by CVPR 2022! 
+- [Jan 2021] One paper is accepted by TPAMI!
        
  
 

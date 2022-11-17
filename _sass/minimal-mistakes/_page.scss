@@ -35,6 +35,32 @@ body {
   flex: 1 0 auto;
 }
 
+
+
+.wide2 {
+  .page {
+    float: left;
+    width: 140%;
+    @include breakpoint($large) {
+      padding-left: 0;
+    }
+
+    @include breakpoint($x-large) {
+      padding-left: 0;
+    }
+  }
+
+  .page__related {
+    @include breakpoint($large) {
+      padding-left: 0;
+    }
+
+    @include breakpoint($x-large) {
+      padding-left: 0;
+    }
+  }
+}
+
 .page {
   @include breakpoint($large) {
     float: right;
@@ -551,3 +577,4 @@ body {
     }
   }
 }
+
