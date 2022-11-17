@@ -1,20 +1,21 @@
+div.title a{ TEXT-DECORATION:none; color: #990000;}a:hover{TEXT-DECORATION: underline;}
 img.img_responsive{max-width:100%;height:auto;display:block}
 div.authors a:link,
 div.authors a:visited{color:#000000}
 div.img {display:inline-block;zoom:1;display*:inline;text-align:left;margin-left:auto;margin-right:auto;vertical-align:middle; padding-left:20px;padding-right:20px}
-div.text {display:inline-block;zoom:1;display*:inline;text-align:left;margin-left:auto;margin-right:auto;vertical-align:middle; padding-left:20px;padding-right:20px}
+div.text {display:inline-block;zoom:1;display*:inline;text-align:left;margin-left:auto;margin-right:auto;vertical-align:middle;max-width:1960px; padding-left:0px;padding-right:20px}
 div.publication{padding-top:0px;padding-bottom:0px}
-div.publication div.img{max-width:300px;padding-right:10px}
+div.publication div.img{max-width:300px;max-height:100px;padding-right:10px}
 div.publication div.text{text-align:left}
-div.publication div.text div.title{font-weight:500}
 
-@media only screen and (max-width: 128em) {
+@media only screen and (max-width: 80em) {
     div.publication div.img{display:none}
     div.publication div.text{text-align:left}
+    div.publication {padding-top:0px;padding-bottom:10px}
+    body{font-size:80%}
     div.twitter_feed{display:none}
 }
-@media only screen and (min-width: 128em) {
-    div.publication div.img{max-width:23%}
-    div.publication div.text{max-width:72%;text-align:left}
+@media only screen and (min-width: 80em) {
+    div.publication div.img{max-width:12%}
+    div.publication div.text{max-width:88%;text-align:left}
 }
-
