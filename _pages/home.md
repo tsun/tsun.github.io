@@ -25,7 +25,7 @@ I am broadly interested in machine learning and computer vision, particularly do
 - 2022-07: Paper "Prior Knowledge Guided Unsupervised Domain Adaptation" is accepted by [ECCV 2022](https://eccv2022.ecva.net/)! See you in Tel Aviv, Israel!
 - 2022-06: Attended CVPR 2022 at New Orleans, LA.
 - 2022-03: Paper "Safe Self-Refinement for Transformer-based Domain Adaptation" is accepted by [CVPR 2022](https://cvpr2022.thecvf.com/)! See you in New Orleans, LA!
-- J021-01: Paper "End-to-end Full Projector Compensation" has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)!
+- 2021-01: Paper "End-to-end Full Projector Compensation" has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)!
        
  
 
