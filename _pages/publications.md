@@ -50,7 +50,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
    <div class="text">         
      <div class="title"><b>Domain Adaptation with Adversarial Training on Penultimate Activations</b></div>       
      <div class="authors"><u>Tao Sun</u>, Cheng Lu, and Haibin Ling </div> 
-    <div> <em>To appear in AAAI 2023</em> </div>
+    <div> <em>To appear in <b>AAAI</b>, 2023</em> </div>
      [<a href="https://arxiv.org/abs/2208.12853" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/tsun/APA" target="_blank" rel="nofollow">Code</a>]    
    </div>         
  </div> 
