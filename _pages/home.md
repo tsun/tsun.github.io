@@ -20,6 +20,7 @@ I am broadly interested in machine learning and computer vision, particularly do
 
 
 ## News
+- [Nov 2022] One paper is accepted by AAAI 2023!
 - [Oct 2022] Attended ECCV 2022 remotely.
 - [July 2022] One paper is accepted by ECCV 2022! 
 - [June 2022] Attended CVPR 2022 at New Orleans, LA.

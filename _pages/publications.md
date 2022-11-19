@@ -26,18 +26,6 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
    </div>         
  </div> 
 
----
-
-<div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">   
-<div class="img"><img class="img_responsive" src="/images/pub/arxiv22a.png"></div>        
-   <div class="text">         
-     <div class="title"><b>Domain Adaptation with Adversarial Training on Penultimate Activations</b></div>       
-     <div class="authors"><u>Tao Sun</u>, Cheng Lu, and Haibin Ling </div> 
-    <div> <em>under review</em> </div>
-     [<a href="https://arxiv.org/abs/2208.12853" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/tsun/APA" target="_blank" rel="nofollow">Code</a>]    
-   </div>         
- </div> 
 
 ---
 
@@ -55,6 +43,19 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 ### Conference/Journal 
+
+<div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">   
+<div class="img"><img class="img_responsive" src="/images/pub/arxiv22a.png"></div>        
+   <div class="text">         
+     <div class="title"><b>Domain Adaptation with Adversarial Training on Penultimate Activations</b></div>       
+     <div class="authors"><u>Tao Sun</u>, Cheng Lu, and Haibin Ling </div> 
+    <div> <em>To appear in AAAI 2023</em> </div>
+     [<a href="https://arxiv.org/abs/2208.12853" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/tsun/APA" target="_blank" rel="nofollow">Code</a>]    
+   </div>         
+ </div> 
+
+---
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">    
