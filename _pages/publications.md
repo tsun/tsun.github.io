@@ -45,7 +45,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
    <link rel="stylesheet" href="/assets/css/my.css">   
    <div class="img"><img class="img_responsive" src="/images/pub/arxiv22c.png"></div>        
    <div class="text">         
-     <div class="title"><b>Incorporation of density scaling constraint in density functional design via contrastive representation learning</b></div>       
+     <div class="title"><b>Incorporation of Density Scaling Constraint in Density Functional Design via Contrastive Representation Learning</b></div>       
      <div class="authors">Weiyi Gong, <u>Tao Sun</u>, Hexin Bai, Shah Tanvir ur Rahman Chowdhury, Peng Chu, Anoj Aryal, Jie Yu, Haibin Ling, John P. Perdew, Qimin Yan</div> 
     <div> <em>under review at npj Computational Materials</em> </div>
      [<a href="https://arxiv.org/abs/2205.15071" target="_blank" rel="nofollow">arXiv</a>]   
