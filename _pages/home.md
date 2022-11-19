@@ -20,12 +20,12 @@ I am broadly interested in machine learning and computer vision, particularly do
 
 
 ## News
-- Nov. 2022: Paper "Domain Adaptation with Adversarial Training on Penultimate Activations" is accepted by AAAI 2023! See you in Washington, DC.
-- Oct. 2022: Attended ECCV 2022 ~~at Tel Aviv, Israel~~ remotely.
-- July 2022: Paper "Prior Knowledge Guided Unsupervised Domain Adaptation" is accepted by ECCV 2022! See you in Tel Aviv, Israel.
-- June 2022: Attended CVPR 2022 at New Orleans, LA.
-- Mar. 2022: Paper "Safe Self-Refinement for Transformer-based Domain Adaptation" is accepted by CVPR 2022! See you in New Orleans, LA.
-- Jan. 2021: Paper "End-to-end Full Projector Compensation" has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)!
+- 2022-11: Paper "Domain Adaptation with Adversarial Training on Penultimate Activations" is accepted by [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)! See you in Washington, DC!
+- 2022-10: Attended ECCV 2022 ~~at Tel Aviv, Israel~~ remotely.
+- 2022-07: Paper "Prior Knowledge Guided Unsupervised Domain Adaptation" is accepted by [ECCV 2022](https://eccv2022.ecva.net/)! See you in Tel Aviv, Israel!
+- 2022-06: Attended CVPR 2022 at New Orleans, LA.
+- 2022-03: Paper "Safe Self-Refinement for Transformer-based Domain Adaptation" is accepted by [CVPR 2022](https://cvpr2022.thecvf.com/)! See you in New Orleans, LA!
+- J021-01: Paper "End-to-end Full Projector Compensation" has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)!
        
  
 
