@@ -19,3 +19,92 @@ div.publication div.text{text-align:left}
     div.publication div.img{max-width:12%}
     div.publication div.text{max-width:88%;text-align:left}
 }
+
+
+/* from feichtenhofer.github.io/ */
+#timeline {
+  font-size: 16px;
+  font-weight: 300;
+  /* background-color: #f7f7f7; */
+}
+@media (min-width: 768px) {
+  .timelineitem:nth-child(odd) {
+    margin-left: 50%;
+    margin-right: 3px;
+    border-left: 3px solid #cf9fa6;
+    text-align: left;
+  }
+  .timelineitem:nth-child(even) {
+    margin-right: 50%;
+    margin-left: 3px;
+    border-right: 3px solid #cf9fa6;
+    text-align: right;
+  }
+  .timelineitem {
+    width: 50%;
+    position: relative;
+    padding: 20px;
+  }
+  .timelineitem:nth-child(odd):before {
+   left: -8px;
+  }
+  .timelineitem:nth-child(even):before {
+    right: -8px;
+  }
+}
+
+.timelineitem:before {
+  margin-left: 2.5px;
+  margin-right: 2.5px;
+  width: 8px;
+  height: 8px;
+  background: #cf9fa6;
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  border-radius: 4px;
+
+}
+
+@media (max-width: 768px) {
+  .timelineitem {
+    border-left: 5px solid #cf9fa6;
+    text-align: left;
+    margin-left: 10px;
+    padding: 5px;
+    position: relative;
+  }
+  .timelineitem:before {
+    left: -8px;
+  }
+}
+
+.tdate {
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: -5px;
+  color: rgb(132,0,0);
+}
+.ttitle {
+  font-size: 16px;
+  font-weight: 400;
+}
+.tdesc {
+  font-size: 14px;
+  font-weight: 300;
+}
+@media (max-width: 768px) {
+  .tdate {
+    font-size: 12px;
+  }
+  .ttitle {
+    font-size: 12px;
+  }
+  .tdesc {
+    font-size: 12px;
+  }
+}
+.thigh {
+  color: #000266;
+}
