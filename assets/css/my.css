@@ -69,10 +69,10 @@ div.publication div.text{text-align:left}
 
 @media (max-width: 768px) {
   .timelineitem {
-    border-left: 5px solid #cf9fa6;
+    border-left: 3px solid #cf9fa6;
     text-align: left;
     margin-left: 10px;
-    padding: 5px;
+    padding: 3px;
     position: relative;
   }
   .timelineitem:before {
