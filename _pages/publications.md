@@ -27,6 +27,17 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
  </div> 
 
 
+<div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css"> 
+<div class="img"><img class="img_responsive" src="/images/pub/arxiv22a.png"></div>  
+   <div class="text">         
+     <div class="title"><b>Backdoor Cleansing with Unlabeled Data</b></div>         
+     <div class="authors">Lu Pang, <u>Tao Sun</u>, Haibin Ling, and Chao Chen </div> 
+     <div> <em>under review</em> </div>
+     [<a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank" rel="nofollow">arXiv</a>]
+   </div>         
+ </div> 
+
 ---
 
 <div class="publication">          
@@ -46,7 +57,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">   
-<div class="img"><img class="img_responsive" src="/images/pub/arxiv22a.png"></div>        
+<div class="img"><img class="img_responsive" src="/images/pub/aaai23.png"></div>        
    <div class="text">         
      <div class="title"><b>Domain Adaptation with Adversarial Training on Penultimate Activations</b></div>       
      <div class="authors"><u>Tao Sun</u>, Cheng Lu, and Haibin Ling </div> 
