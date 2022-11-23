@@ -35,7 +35,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
      <div class="title"><b>Backdoor Cleansing with Unlabeled Data</b></div>         
      <div class="authors">Lu Pang, <u>Tao Sun</u>, Haibin Ling, and Chao Chen </div> 
      <div> <em>under review</em> </div>
-     [<a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank" rel="nofollow">arXiv</a>]
+     [<a href="https://arxiv.org/abs/2211.12044" target="_blank" rel="nofollow">arXiv</a>]
    </div>         
  </div> 
 
