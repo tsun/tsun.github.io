@@ -142,7 +142,7 @@ classes: wide2
      <div class="title"><b>Structure-adaptive CBCT reconstruction using weighted total variation and Hessian penalties</b></div>         
      <div class="authors">Qi Shi, Nanbo Sun, <u>Tao Sun</u>, Jing Wang, and Shan Tan</div>         
      <div>   <em>Biomedical optics express, 7(9):3299-3322, 2016.</em> </div>
-     [<a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-7-9-3299&id=348420" target="_blank" rel="nofollow">OPG</a>][<a href="/files/pub/boe16.pdf" target="_blank" rel="nofollow">paper</a>]
+     [<a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-7-9-3299&id=348420" target="_blank" rel="nofollow">OPG</a>][<a href="https://opg.optica.org/DirectPDFAccess/30DAA039-EDC5-4D32-8490D23B6266BC7D_348420/boe-7-9-3299.pdf" target="_blank" rel="nofollow">paper</a>]
      </div>               
 </div> 
 
