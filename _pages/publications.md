@@ -30,7 +30,7 @@ Full publications can be found [here](/full-publications/) and in [Google Schola
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css"> 
-<div class="img"><img class="img_responsive" src="/images/pub/arxiv22as.png"></div>  
+<div class="img"><img class="img_responsive" src="/images/pub/arxiv22a.png"></div>  
    <div class="text">         
      <div class="title"><b>Backdoor Cleansing with Unlabeled Data</b></div>         
      <div class="authors">Lu Pang, <u>Tao Sun</u>, Haibin Ling, and Chao Chen </div> 
