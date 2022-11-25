@@ -99,7 +99,7 @@ classes: wide2
 <div class="img"><img class="img_responsive" src="/images/pub/spie15.png"></div>       
    <div class="text">         
      <div class="title"><b>CBCT reconstruction via a penalty combining total variation and its higher-degree term</b></div>         
-     <div class="authors">Nanbo Sun, <u>Tao Sun</u>, Jing Wang, Shan Tan</div>         
+     <div class="authors">Nanbo Sun, <u>Tao Sun</u>, Jing Wang, and Shan Tan</div>         
      <div> <em>Medical Imaging 2015: Physics of Medical Imaging, 2015.</em> </div>
      [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9412/94123T/CBCT-reconstruction-via-a-penalty-combining-total-variation-and-its/10.1117/12.2082445.short" target="_blank" rel="nofollow">SPIE</a>][<a href="/files/pub/spie15.pdf" target="_blank" rel="nofollow">paper</a>]
    </div>         
@@ -127,7 +127,7 @@ classes: wide2
    <div class="img"><img class="img_responsive" src="/images/pub/fcs18.png"></div>      
    <div class="text">         
      <div class="title"><b>Structural diversity for decision tree ensemble learning</b></div>         
-     <div class="authors"><u>Tao Sun</u>, Zhi-Hua Zhou</div>         
+     <div class="authors"><u>Tao Sun</u>, and Zhi-Hua Zhou</div>         
      <div>   <em>Frontiers of Computer Science, 12(3):560-570, 2018.</em> </div>
      [<a href="https://link.springer.com/article/10.1007/s11704-018-7151-8" target="_blank" rel="nofollow">Springer</a>][<a href="/files/pub/fcs18.pdf" target="_blank" rel="nofollow">paper</a>]
      </div>               
@@ -140,7 +140,7 @@ classes: wide2
    <div class="img"><img class="img_responsive" src="/images/pub/boe16.png"></div>      
    <div class="text">         
      <div class="title"><b>Structure-adaptive CBCT reconstruction using weighted total variation and Hessian penalties</b></div>         
-     <div class="authors">Qi Shi, Nanbo Sun, <u>Tao Sun</u>, Jing Wang, Shan Tan</div>         
+     <div class="authors">Qi Shi, Nanbo Sun, <u>Tao Sun</u>, Jing Wang, and Shan Tan</div>         
      <div>   <em>Biomedical optics express, 7(9):3299-3322, 2016.</em> </div>
      [<a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-7-9-3299&id=348420" target="_blank" rel="nofollow">OPG</a>][<a href="/files/pub/boe16.pdf" target="_blank" rel="nofollow">paper</a>]
      </div>               
@@ -153,7 +153,7 @@ classes: wide2
    <div class="img"><img class="img_responsive" src="/images/pub/pmb15.png"></div>      
    <div class="text">         
      <div class="title"><b>Iterative CBCT reconstruction using Hessian penalty</b></div>         
-     <div class="authors"><u>Tao Sun</u>, Nanbo Sun, Jing Wang, Shan Tan</div>         
+     <div class="authors"><u>Tao Sun</u>, Nanbo Sun, Jing Wang, and Shan Tan</div>         
      <div>   <em>Physics in Medicine & Biology, 60(5):1965-1987, 2015.</em> </div>
      [<a href="https://iopscience.iop.org/article/10.1088/0031-9155/60/5/1965" target="_blank" rel="nofollow">IOP</a>][<a href="/files/pub/pmb15.pdf" target="_blank" rel="nofollow">paper</a>]
      </div>               
