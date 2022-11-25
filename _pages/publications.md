@@ -12,7 +12,7 @@ classes: wide2
 
 ## Selected Publications
 
-Full publications can be found in [Google Scholar](https://scholar.google.com/citations?user=izyo6gkAAAAJ).
+Full publications can be found [here](/full-publications/) and in [Google Scholar](https://scholar.google.com/citations?user=izyo6gkAAAAJ).
 
 ### Preprint
 <div class="publication">          
@@ -97,7 +97,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">    
-   <div class="img"><img class="img_responsive" src="/images/pub/tpami21s.png"></div>      
+   <div class="img"><img class="img_responsive" src="/images/pub/tpami21.png"></div>      
    <div class="text">         
      <div class="title"><b>End-to-end Full Projector Compensation</b></div>         
      <div class="authors">Bingyao Huang, <u>Tao Sun</u>, and Haibin Ling </div>         
