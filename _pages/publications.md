@@ -12,7 +12,7 @@ classes: wide2
 
 ## Selected Publications
 
-Full publications can be found [here](/full-publications/) and in [Google Scholar](https://scholar.google.com/citations?user=izyo6gkAAAAJ).
+Full publications can be found [Here](/full-publications/) and in [Google Scholar](https://scholar.google.com/citations?user=izyo6gkAAAAJ).
 
 ### Preprint
 <div class="publication">          
