@@ -20,6 +20,7 @@ I am broadly interested in machine learning and computer vision, particularly do
 
 
 ## News
+- 2022-12： Happy to be invited to review for [CVPR 2023](https://cvpr2023.thecvf.com/)
 - 2022-11: Paper "[Domain Adaptation with Adversarial Training on Penultimate Activations](https://arxiv.org/abs/2208.12853)" is accepted by [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)!
 - 2022-10: Attended ECCV 2022 ~~at Tel Aviv, Israel~~ remotely.
 - 2022-07: Paper "[Prior Knowledge Guided Unsupervised Domain Adaptation](https://arxiv.org/abs/2207.08877)" is accepted by [ECCV 2022](https://eccv2022.ecva.net/)! 
