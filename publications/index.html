@@ -119,6 +119,42 @@
         <div class="col-sm-2 abbr"><div>arXiv</div></div>
 
         <!-- Entry bib key -->
+        <div id="sun2023mask" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2303.15564</em>  xx
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://arxiv.org/abs/2303.15564" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
+            <a href="https://github.com/tsun/BDMAE" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Deep neural networks are vulnerable to backdoor attacks, where an adversary maliciously manipulates the model behavior through overlaying images with special triggers. Existing backdoor defense methods often require accessing a few validation data and model parameters, which are impractical in many real-world applications, e.g., when the model is provided as a cloud service. In this paper, we address the practical task of blind backdoor defense at test time, in particular for black-box models. The true label of every test image needs to be recovered on the fly from the hard label predictions of a suspicious model. The heuristic trigger search in image space, however, is not scalable to complex triggers or high image resolution. We circumvent such barrier by leveraging generic image generation models, and propose a framework of Blind Defense with Masked AutoEncoder (BDMAE). It uses the image structural similarity and label consistency between the test image and MAE restorations to detect possible triggers. The detection result is refined by considering the topology of triggers. We obtain a purified test image from restorations for making prediction. Our approach is blind to the model architectures, trigger patterns or image benignity. Extensive experiments on multiple datasets with different backdoor attacks validate its effectiveness and generalizability.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><div>arXiv</div></div>
+
+        <!-- Entry bib key -->
         <div id="sun2022local" class="col-sm-8">
         
           <!-- Title -->
@@ -227,6 +263,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a href="http://arxiv.org/abs/2211.12044" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
+            <a href="https://github.com/luluppang/BCU" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -404,7 +441,7 @@
     <footer class="fixed-bottom">
       <div class="container mt-0">
         © Copyright 2023 Tao  Sun. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme.
-Last updated: March 21, 2023.
+Last updated: March 28, 2023.
       </div>
     </footer>
 
