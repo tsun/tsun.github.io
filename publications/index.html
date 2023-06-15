@@ -72,9 +72,6 @@
               
 
               <!-- Other pages -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/publications/">publications<span class="sr-only">(current)</span></a>
-              </li>
 
               <!-- Toogle theme mode -->
               <li class="toggle-container">
@@ -185,54 +182,6 @@
         </div>
       </div>
 </li>
-<li>
-<!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 abbr"><div>arXiv</div></div>
-
-        <!-- Entry bib key -->
-        <div id="gong2022incorporation" class="col-sm-8">
-        
-          <!-- Title -->
-          <div class="title">Incorporation of Density Scaling Constraint in Density Functional Design via Contrastive Representation Learning</div>
-          <!-- Author -->
-          <div class="author">
-          
-
-          Weiyi Gong, <b style="color: var(--global-theme-color)"><u>Tao Sun</u></b>, Hexin Bai, Peng Chu, and
-            <span class="more-authors" title="click to view 5 more authors" onclick="
-                  var element = $(this);
-                  element.attr('title', '');
-                  var more_authors_text = element.text() == '5 more authors' ? 'Anoj Aryal, Jie Yu, Haibin Ling, John P Perdew, Qimin Yan' : '5 more authors';
-                  var cursorPosition = 0;
-                  var textAdder = setInterval(function(){
-                    element.text(more_authors_text.substring(0, cursorPosition + 1));
-                    if (++cursorPosition == more_authors_text.length){
-                      clearInterval(textAdder);
-                    }
-                }, '10');
-                ">5 more authors</span>
-</div>
-
-          <!-- Journal/Book title and date -->
-          
-          <div class="periodical">
-            <em>arXiv preprint arXiv:2205.15071</em>  xx
-          </div>
-        
-          <!-- Links/Buttons -->
-          <div class="links">
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-            <a href="http://arxiv.org/abs/2205.15071" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
-          </div>
-
-          <!-- Hidden abstract block -->
-          <div class="abstract hidden">
-            <p>In a data-driven paradigm, machine learning (ML) is the central component for developing accurate and universal exchange-correlation (XC) functionals in density functional theory (DFT). It is well known that XC functionals must satisfy several exact conditions and physical constraints, such as density scaling, spin scaling, and derivative discontinuity. In this work, we demonstrate that contrastive learning is a computationally efficient and flexible method to incorporate a physical constraint in ML-based density functional design. We propose a schematic approach to incorporate the uniform density scaling property of electron density for exchange energies by adopting contrastive representation learning during the pretraining task. The pretrained hidden representation is transferred to the downstream task to predict the exchange energies calculated by DFT. The electron density encoder transferred from the pretraining task based on contrastive learning predicts exchange energies that satisfy the scaling property, while the model trained without using contrastive learning gives poor predictions for the scaling-transformed electron density systems. Furthermore, the model with pretrained encoder gives a satisfactory performance with only small fractions of the whole augmented dataset labeled, comparable to the model trained from scratch using the whole dataset. The results demonstrate that incorporating exact constraints through contrastive learning can enhance the understanding of density-energy mapping using neural network (NN) models with less data labeling, which will be beneficial to generalizing the application of NN-based XC functionals in a wide range of scenarios that are not always available experimentally but theoretically justified. This work represents a viable pathway toward the machine learning design of a universal density functional via representation learning.</p>
-          </div>
-        </div>
-      </div>
-</li>
 </ol>
 
   <h2 class="year">2023</h2>
@@ -256,7 +205,7 @@
           <!-- Journal/Book title and date -->
           
           <div class="periodical">
-            <em>To apper in IEEE/CVF Conference on Computer Vision and Pattern Recognition</em>  2023
+            <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em>  2023
           </div>
         
           <!-- Links/Buttons -->
@@ -441,7 +390,7 @@
     <footer class="fixed-bottom">
       <div class="container mt-0">
         © Copyright 2023 Tao  Sun. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme.
-Last updated: March 28, 2023.
+Last updated: June 14, 2023.
       </div>
     </footer>
 
