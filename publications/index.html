@@ -111,8 +111,142 @@
             <!-- _pages/publications.md -->
 <p>Full publications can be found in <b><a href="https://scholar.google.com/citations?user=izyo6gkAAAAJ" rel="external nofollow noopener" target="_blank">Google Scholar</a></b>.</p>
 <div class="publications">
-  <h2 class="year">xx</h2>
-  <ol class="bibliography"></ol>
+  <h2 class="year">2025</h2>
+  <ol class="bibliography">
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><div>WACV</div></div>
+
+        <!-- Entry bib key -->
+        <div id="yi2025pivotalign" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">PivotAlign: Improve Semi-Supervised Learning by Learning Intra-Class Heterogeneity and Aligning with Pivots</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Lingjie Yi, <b style="color: var(--global-theme-color)"><u>Tao Sun</u></b>, Yikai Zhang, Songzhu Zheng, and
+            <span class="more-authors" title="click to view 3 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '3 more authors' ? 'Weimin Lyu, Haibin Ling, Chao Chen' : '3 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">3 more authors</span>
+</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>IEEE/CVF Winter Conference on Applications of Computer Vision</em>  2025
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://www.computer.org/csdl/proceedings-article/wacv/2025/108300h925/25KlVBVWMyA" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Self-supervised learning plays an important role in current state-of-the-art semi-supervised learning (SSL) methods. These methods learn inter-class heterogeneity among data and generate pseudo-labels based on class level representations. However, they often neglect intra-class heterogeneity, resulting in the under-exploitation of finer-grained semantic relationships within classes. To address this limitation, we introduce PivotAlign, a novel SSL approach that aims to 1) learn hierarchical representations to detect both interclass and intra-class semantic relationships, and 2) refine pseudo-labels based on learned representations with a class-debiasing strategy. Specifically, we first learn a set of pivots as sub-prototypes of classes. We then train representations so that features align with the assigned pivot and are hierarchically grouped based on both inter-class and intra-class heterogeneity. This allows us to capture both inter-class and intra-class semantic relationships among data and leverage them to better assign and refine pseudo-labels. Additionally, since SSL methods are prone to bias toward classes that are easier to learn, we further re-balance class predictions to alleviate this class bias. We demonstrate the effectiveness of PivotAlign on various SSL benchmarks, where PivotAlign achieves state-of-the-art performances.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><div>EvalMG</div></div>
+
+        <!-- Entry bib key -->
+        <div id="sun2025llava" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">LLaVA-RE: Binary image-text relevancy evaluation with multimodal large language model</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          <b style="color: var(--global-theme-color)"><u>Tao Sun</u></b>, Oliver Liu, JinJin Li, and Lan Ma</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>The First Workshop of Evaluation of Multi-Modal Generation</em>  2025
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://arxiv.org/abs/2508.05602" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
+            <a href="https://aclanthology.org/2025.evalmg-1.4/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Multimodal generative AI usually involves generating image or text responses given inputs in another modality. The evaluation of image-text relevancy is essential for measuring the response quality or ranking candidate responses. In particular, binary relevancy evaluation, ie, "Relevant" vs. "Not Relevant", is a fundamental problem. However, this is a challenging task considering that texts have diverse formats and the definition of relevancy varies in different scenarios. We find that Multimodal Large Language Models (MLLMs) are an ideal choice to build such evaluators, as they can flexibly handle complex text formats and take in additional task information. In this paper, we present LLaVA-RE, a first attempt for binary image-text relevancy evaluation with MLLM. It follows the LLaVA architecture and adopts detailed task instructions and multimodal in-context samples. Further, we propose a novel binary relevancy dataset covering diverse tasks. Experimental results validate the effectiveness of our framework.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><div>ICLR</div></div>
+
+        <!-- Entry bib key -->
+        <div id="lyu2024backdooring" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Backdooring vision-language models with out-of-distribution data</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Weimin Lyu, Jiachen Yao, Saumya Gupta, Lu Pang, and
+            <span class="more-authors" title="click to view 5 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '5 more authors' ? 'Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen' : '5 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">5 more authors</span>
+</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>International Conference on Learning Representations</em>  2025
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://arxiv.org/abs/2410.01264" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
+            <a href="https://openreview.net/forum?id=tZozeR3VV7" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>The emergence of Vision-Language Models (VLMs) represents a significant advancement in integrating computer vision with Large Language Models (LLMs) to generate detailed text descriptions from visual inputs. Despite their growing importance, the security of VLMs, particularly against backdoor attacks, is under explored. Moreover, prior works often assume attackers have access to the original training data, which is often unrealistic. In this paper, we address a more practical and challenging scenario where attackers must rely solely on Out-OfDistribution (OOD) data. We introduce VLOOD (Backdooring Vision-Language Models with Out-of-Distribution Data), a novel approach with two key contributions: (1) demonstrating backdoor attacks on VLMs in complex image-to-text tasks while minimizing degradation of the original semantics under poisoned inputs, and (2) proposing innovative techniques for backdoor injection without requiring any access to the original training data. Our evaluation on image captioning and visual question answering (VQA) tasks confirms the effectiveness of VLOOD, revealing a critical security vulnerability in VLMs and laying the foundation for future research on securing multimodal models against sophisticated threats.</p>
+          </div>
+        </div>
+      </div>
+</li>
+</ol>
 
   <h2 class="year">2023</h2>
   <ol class="bibliography">
@@ -130,7 +264,20 @@
           <div class="author">
           
 
-          <b style="color: var(--global-theme-color)"><u>Tao Sun</u></b>, Lu Pang, Chao Chen, and Haibin Ling</div>
+          <b style="color: var(--global-theme-color)"><u>Tao Sun</u></b>, Lu Pang, Weimin Lyu, Chao Chen, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Haibin Ling' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span>
+</div>
 
           <!-- Journal/Book title and date -->
           
@@ -394,8 +541,8 @@
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        © Copyright 2024 Tao  Sun. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme.
-Last updated: November 27, 2024.
+        © Copyright 2025 Tao  Sun. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme.
+Last updated: August 19, 2025.
       </div>
     </footer>
 
